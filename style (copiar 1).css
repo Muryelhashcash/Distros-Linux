@@ -1,0 +1,40 @@
+/* Texto Dos Links */
+.linux-linux {
+    font-family: Poppins;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(155, 215, 250) ;
+    margin-top: 5px;
+    display: block;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 0;
+    width: 200px;
+    margin: 5px auto;
+    transition: all 0.2s linear;
+    cursor: pointer
+}
+/* Passada de Mouse */
+.linux-linux:hover{
+    background-color:rgb(14, 142, 228) ;
+    color: white;
+    border-color: rgb(52, 61, 105);
+}
+/* Estilo do H1 */
+h1{ 
+    color:rgb(52, 61, 105);
+    text-align:center;
+    font-family:Poppins;
+}
+/* Estilo do Body */
+body{
+    background-color: cadetblue;
+}
+/* Imagem do Tux */
+img{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
